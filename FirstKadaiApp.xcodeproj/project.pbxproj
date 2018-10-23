@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7155C53A217EC6B500CDA650 /* TestIgnoreFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7155C539217EC6B500CDA650 /* TestIgnoreFile.swift */; };
 		7172C664213E2490007BFBBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7172C663213E2490007BFBBF /* AppDelegate.swift */; };
 		7172C666213E2490007BFBBF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7172C665213E2490007BFBBF /* ViewController.swift */; };
 		7172C669213E2490007BFBBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7172C667213E2490007BFBBF /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7155C539217EC6B500CDA650 /* TestIgnoreFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestIgnoreFile.swift; sourceTree = "<group>"; };
 		7172C660213E2490007BFBBF /* FirstKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7172C663213E2490007BFBBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7172C665213E2490007BFBBF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				7172C66A213E2493007BFBBF /* Assets.xcassets */,
 				7172C66C213E2493007BFBBF /* LaunchScreen.storyboard */,
 				7172C66F213E2494007BFBBF /* Info.plist */,
+				7155C539217EC6B500CDA650 /* TestIgnoreFile.swift */,
 			);
 			path = FirstKadaiApp;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7155C53A217EC6B500CDA650 /* TestIgnoreFile.swift in Sources */,
 				7172C666213E2490007BFBBF /* ViewController.swift in Sources */,
 				7172C664213E2490007BFBBF /* AppDelegate.swift in Sources */,
 			);
